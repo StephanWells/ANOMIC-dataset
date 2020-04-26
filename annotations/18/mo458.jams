@@ -1,0 +1,2075 @@
+{
+  "sandbox": {
+    "Log0": "type: Session;time: 00:00:00.00;value: Sessionstart",
+    "Log1": "type: LoadedFile;time: 01:18:05.59;value: mo458.mid",
+    "Log2": "type: PatternAdd;time: 01:18:13.22;value: PatternNum:1",
+    "Log3": "type: PatternAdd;time: 01:18:36.01;value: PatternNum:2",
+    "Log4": "type: OccurrenceAdd;time: 01:19:10.55;value: PatternNum:1-OccurrenceNum:0",
+    "Log5": "type: OccurrenceFindSimilar;time: 01:19:13.35;value: PatternNum:1-OccurrenceNum:0",
+    "Log6": "type: PatternAdd;time: 01:19:21.98;value: PatternNum:3",
+    "Log7": "type: OccurrenceAdd;time: 01:20:43.49;value: PatternNum:2-OccurrenceNum:0",
+    "Log8": "type: OccurrenceFindSimilar;time: 01:20:46.13;value: PatternNum:2-OccurrenceNum:0",
+    "Log9": "type: OccurrenceFindSimilar;time: 01:21:00.01;value: PatternNum:2-OccurrenceNum:0",
+    "Log10": "type: OccurrenceAdd;time: 01:21:15.99;value: PatternNum:2-OccurrenceNum:0",
+    "Log11": "type: OccurrenceFindSimilar;time: 01:21:19.14;value: PatternNum:2-OccurrenceNum:0",
+    "Log12": "type: PatternAdd;time: 01:21:25.77;value: PatternNum:4",
+    "Log13": "type: OccurrenceAdd;time: 01:21:44.77;value: PatternNum:3-OccurrenceNum:0",
+    "Log14": "type: OccurrenceFindSimilar;time: 01:21:47.79;value: PatternNum:3-OccurrenceNum:0",
+    "Log15": "type: PatternAdd;time: 01:21:57.79;value: PatternNum:5",
+    "Log16": "type: OccurrenceAdd;time: 01:22:43.44;value: PatternNum:4-OccurrenceNum:0",
+    "Log17": "type: OccurrenceFindSimilar;time: 01:22:46.29;value: PatternNum:4-OccurrenceNum:0",
+    "Log18": "type: PatternAdd;time: 01:23:25.11;value: PatternNum:6",
+    "Log19": "type: OccurrenceAdd;time: 01:23:35.29;value: PatternNum:5-OccurrenceNum:0",
+    "Log20": "type: OccurrenceFindSimilar;time: 01:23:37.78;value: PatternNum:5-OccurrenceNum:0",
+    "Log21": "type: PatternAdd;time: 01:23:50.09;value: PatternNum:7",
+    "Log22": "type: OccurrenceAdd;time: 01:23:58.27;value: PatternNum:6-OccurrenceNum:0",
+    "Log23": "type: OccurrenceFindSimilar;time: 01:24:00.95;value: PatternNum:6-OccurrenceNum:0",
+    "Log24": "type: PatternAdd;time: 01:24:59.53;value: PatternNum:8",
+    "Log25": "type: OccurrenceAdd;time: 01:25:13.35;value: PatternNum:7-OccurrenceNum:0",
+    "Log26": "type: OccurrenceFindSimilar;time: 01:25:15.87;value: PatternNum:7-OccurrenceNum:0",
+    "Log27": "type: PatternAdd;time: 01:25:41.29;value: PatternNum:9",
+    "Log28": "type: OccurrenceAdd;time: 01:25:53.94;value: PatternNum:8-OccurrenceNum:0",
+    "Log29": "type: OccurrenceFindSimilar;time: 01:25:57.07;value: PatternNum:8-OccurrenceNum:0",
+    "Log30": "type: PatternAdd;time: 01:26:19.12;value: PatternNum:10",
+    "Log31": "type: OccurrenceAdd;time: 01:26:31.72;value: PatternNum:9-OccurrenceNum:0",
+    "Log32": "type: OccurrenceFindSimilar;time: 01:26:34.42;value: PatternNum:9-OccurrenceNum:0",
+    "Log33": "type: PatternAdd;time: 01:26:38.62;value: PatternNum:11",
+    "Log34": "type: OccurrenceAdd;time: 01:27:17.63;value: PatternNum:10-OccurrenceNum:0",
+    "Log35": "type: OccurrenceFindSimilar;time: 01:27:20.55;value: PatternNum:10-OccurrenceNum:0",
+    "Log36": "type: PatternAdd;time: 01:28:00.25;value: PatternNum:12",
+    "Log37": "type: OccurrenceAdd;time: 01:28:35.62;value: PatternNum:11-OccurrenceNum:0",
+    "Log38": "type: OccurrenceFindSimilar;time: 01:28:38.44;value: PatternNum:11-OccurrenceNum:0",
+    "Log39": "type: Session;time: 01:29:06.53;value: Sessionend"
+  },
+  "file_metadata": {
+    "duration": 161,
+    "title": "mo458.mid",
+    "release": "",
+    "identifiers": {},
+    "artist": "",
+    "jams_version": "0.3.3"
+  },
+  "annotations": [
+    {
+      "sandbox": {},
+      "duration": 161,
+      "data": [],
+      "namespace": "pattern",
+      "time": 0,
+      "annotation_metadata": {
+        "corpus": "",
+        "validation": "",
+        "annotation_tools": "",
+        "version": "1",
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotation_rules": "",
+        "annotator": {},
+        "data_source": ""
+      }
+    },
+    {
+      "sandbox": {},
+      "duration": 161,
+      "data": [
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "79",
+            "occurrence_id": "0",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 91.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "81",
+            "occurrence_id": "0",
+            "morph_pitch": "81",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 91.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "78",
+            "occurrence_id": "0",
+            "morph_pitch": "78",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 91.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "76",
+            "occurrence_id": "0",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 91,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "75",
+            "occurrence_id": "1",
+            "morph_pitch": "75",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 44.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "77",
+            "occurrence_id": "1",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 44.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 44.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 44,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "75",
+            "occurrence_id": "2",
+            "morph_pitch": "75",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 47.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "77",
+            "occurrence_id": "2",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 47.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "2",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 47.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "72",
+            "occurrence_id": "2",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 47,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "75",
+            "occurrence_id": "3",
+            "morph_pitch": "75",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 50.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "77",
+            "occurrence_id": "3",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 50.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "3",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 50.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "72",
+            "occurrence_id": "3",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 50,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "77",
+            "occurrence_id": "4",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 94.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "79",
+            "occurrence_id": "4",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 94.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "76",
+            "occurrence_id": "4",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 94.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "4",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 94,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "77",
+            "occurrence_id": "5",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 97.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "79",
+            "occurrence_id": "5",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 98,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "76",
+            "occurrence_id": "5",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 97.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "5",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 97.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "6",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 100.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "76",
+            "occurrence_id": "6",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 100.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "73",
+            "occurrence_id": "6",
+            "morph_pitch": "73",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 100.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "71",
+            "occurrence_id": "6",
+            "morph_pitch": "71",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 100,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "79",
+            "occurrence_id": "0",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 92.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "77",
+            "occurrence_id": "0",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 92.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "76",
+            "occurrence_id": "0",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 93,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "77",
+            "occurrence_id": "1",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 31.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "75",
+            "occurrence_id": "1",
+            "morph_pitch": "75",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 31.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 31.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "72",
+            "occurrence_id": "2",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 32,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "70",
+            "occurrence_id": "2",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 32.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "69",
+            "occurrence_id": "2",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 32.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "65",
+            "occurrence_id": "3",
+            "morph_pitch": "65",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 33,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "63",
+            "occurrence_id": "3",
+            "morph_pitch": "63",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 33.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "62",
+            "occurrence_id": "3",
+            "morph_pitch": "62",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 33.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "72",
+            "occurrence_id": "4",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 43,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "70",
+            "occurrence_id": "4",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 43.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "69",
+            "occurrence_id": "4",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 43.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "79",
+            "occurrence_id": "5",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 95.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "77",
+            "occurrence_id": "5",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 95.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "76",
+            "occurrence_id": "5",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 95.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "79",
+            "occurrence_id": "6",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 98,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "77",
+            "occurrence_id": "6",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 98.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "76",
+            "occurrence_id": "6",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 98.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "77",
+            "occurrence_id": "7",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 101,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "75",
+            "occurrence_id": "7",
+            "morph_pitch": "75",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 101.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "74",
+            "occurrence_id": "7",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 101.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "72",
+            "occurrence_id": "8",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 101.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "70",
+            "occurrence_id": "8",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 102,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "2",
+            "midi_pitch": "69",
+            "occurrence_id": "8",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 102.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "3",
+            "midi_pitch": "76",
+            "occurrence_id": "0",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 93,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "3",
+            "midi_pitch": "74",
+            "occurrence_id": "0",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 93.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "3",
+            "midi_pitch": "74",
+            "occurrence_id": "0",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 93.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "3",
+            "midi_pitch": "72",
+            "occurrence_id": "0",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 93.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "3",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 96,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "3",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 96.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "3",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 96.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "3",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 96.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "4",
+            "midi_pitch": "74",
+            "occurrence_id": "0",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 98.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "4",
+            "midi_pitch": "72",
+            "occurrence_id": "0",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 99,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "4",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 99.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "4",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 99.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "4",
+            "midi_pitch": "76",
+            "occurrence_id": "1",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 95.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "4",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 96,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "4",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 96.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "4",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 96.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "5",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 110.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "5",
+            "midi_pitch": "69",
+            "occurrence_id": "0",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 111,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "5",
+            "midi_pitch": "69",
+            "occurrence_id": "0",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 111.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "5",
+            "midi_pitch": "67",
+            "occurrence_id": "0",
+            "morph_pitch": "67",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 112,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "5",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 116.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "5",
+            "midi_pitch": "69",
+            "occurrence_id": "1",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 117,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "5",
+            "midi_pitch": "69",
+            "occurrence_id": "1",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 117.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "5",
+            "midi_pitch": "67",
+            "occurrence_id": "1",
+            "morph_pitch": "67",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 118,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "6",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 114,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "6",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 114.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "6",
+            "midi_pitch": "69",
+            "occurrence_id": "0",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 115,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "6",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 120,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "6",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 120.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "6",
+            "midi_pitch": "69",
+            "occurrence_id": "1",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 121,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "74",
+            "occurrence_id": "0",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 123.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "72",
+            "occurrence_id": "0",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 124,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "74",
+            "occurrence_id": "0",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 124.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "72",
+            "occurrence_id": "0",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 124.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "72",
+            "occurrence_id": "0",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 123.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "86",
+            "occurrence_id": "1",
+            "morph_pitch": "86",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 137.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "84",
+            "occurrence_id": "1",
+            "morph_pitch": "84",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 137.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "86",
+            "occurrence_id": "1",
+            "morph_pitch": "86",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 137.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "84",
+            "occurrence_id": "1",
+            "morph_pitch": "84",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 138,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "84",
+            "occurrence_id": "1",
+            "morph_pitch": "84",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 137,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "72",
+            "occurrence_id": "2",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 138.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "70",
+            "occurrence_id": "2",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 139,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "72",
+            "occurrence_id": "2",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 139.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "70",
+            "occurrence_id": "2",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 139.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "70",
+            "occurrence_id": "2",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 138.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "72",
+            "occurrence_id": "3",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 144.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "70",
+            "occurrence_id": "3",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 145,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "72",
+            "occurrence_id": "3",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 145.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "70",
+            "occurrence_id": "3",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 145.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "7",
+            "midi_pitch": "70",
+            "occurrence_id": "3",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 144.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "8",
+            "midi_pitch": "76",
+            "occurrence_id": "0",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 106.5,
+          "duration": 1
+        },
+        {
+          "value": {
+            "pattern_id": "8",
+            "midi_pitch": "74",
+            "occurrence_id": "0",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 107.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "8",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 112.5,
+          "duration": 1
+        },
+        {
+          "value": {
+            "pattern_id": "8",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 113.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "8",
+            "midi_pitch": "72",
+            "occurrence_id": "2",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 115.5,
+          "duration": 1
+        },
+        {
+          "value": {
+            "pattern_id": "8",
+            "midi_pitch": "70",
+            "occurrence_id": "2",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 116.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "8",
+            "midi_pitch": "74",
+            "occurrence_id": "3",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 118.5,
+          "duration": 1
+        },
+        {
+          "value": {
+            "pattern_id": "8",
+            "midi_pitch": "72",
+            "occurrence_id": "3",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 119.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "72",
+            "occurrence_id": "0",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 138.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "72",
+            "occurrence_id": "0",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 139.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 138.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 139,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 139.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 140.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "0",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 141,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 144.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 145.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 144.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 145,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 145.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 146.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "9",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 147,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "81",
+            "occurrence_id": "0",
+            "morph_pitch": "81",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 151.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "79",
+            "occurrence_id": "0",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 150.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "79",
+            "occurrence_id": "0",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 151.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "77",
+            "occurrence_id": "0",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 150.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "77",
+            "occurrence_id": "0",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 151,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 154.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 153.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 154.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 153.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "10",
+            "midi_pitch": "70",
+            "occurrence_id": "1",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 154,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "67",
+            "occurrence_id": "0",
+            "morph_pitch": "67",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 155,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "69",
+            "occurrence_id": "0",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 155.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "67",
+            "occurrence_id": "0",
+            "morph_pitch": "67",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 155.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "69",
+            "occurrence_id": "0",
+            "morph_pitch": "69",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 155.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 123.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 123.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "72",
+            "occurrence_id": "1",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 124,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 124.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "84",
+            "occurrence_id": "2",
+            "morph_pitch": "84",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 137,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "86",
+            "occurrence_id": "2",
+            "morph_pitch": "86",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 137.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "84",
+            "occurrence_id": "2",
+            "morph_pitch": "84",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 137.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "86",
+            "occurrence_id": "2",
+            "morph_pitch": "86",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 137.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "70",
+            "occurrence_id": "3",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 138.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "72",
+            "occurrence_id": "3",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 138.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "70",
+            "occurrence_id": "3",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 139,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "72",
+            "occurrence_id": "3",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 139.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "70",
+            "occurrence_id": "4",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 144.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "72",
+            "occurrence_id": "4",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 144.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "70",
+            "occurrence_id": "4",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 145,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "72",
+            "occurrence_id": "4",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 145.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "77",
+            "occurrence_id": "5",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 150.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "79",
+            "occurrence_id": "5",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 150.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "77",
+            "occurrence_id": "5",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 151,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "79",
+            "occurrence_id": "5",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 151.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "70",
+            "occurrence_id": "6",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 153.5,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "72",
+            "occurrence_id": "6",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 153.75,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "70",
+            "occurrence_id": "6",
+            "morph_pitch": "70",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 154,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "11",
+            "midi_pitch": "72",
+            "occurrence_id": "6",
+            "morph_pitch": "72",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 154.25,
+          "duration": 0.25
+        }
+      ],
+      "namespace": "pattern_jku",
+      "time": 0,
+      "annotation_metadata": {
+        "corpus": "",
+        "validation": "",
+        "annotation_tools": "",
+        "version": "1",
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotation_rules": "",
+        "annotator": {},
+        "data_source": ""
+      }
+    }
+  ]
+}

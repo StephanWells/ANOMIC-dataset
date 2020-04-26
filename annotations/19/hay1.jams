@@ -1,0 +1,320 @@
+{
+  "sandbox": {
+    "Log0": "type: Session;time: 00:00:00.00;value: Sessionstart",
+    "Log1": "type: LoadedFile;time: 00:02:05.64;value: hay1.mid",
+    "Log2": "type: PatternAdd;time: 00:02:18.43;value: PatternNum:1",
+    "Log3": "type: OccurrenceAdd;time: 00:02:22.33;value: PatternNum:0-OccurrenceNum:0",
+    "Log4": "type: OccurrenceFindSimilar;time: 00:02:24.92;value: PatternNum:0-OccurrenceNum:0",
+    "Log5": "type: Play;time: 00:02:48.06;value: n/a",
+    "Log6": "type: Session;time: 00:03:22.17;value: Sessionend",
+    "Log7": "type: OccurrenceFindSimilar;time: 00:03:54.68;value: PatternNum:0-OccurrenceNum:2",
+    "Log8": "type: OccurrenceFindSimilar;time: 00:03:54.68;value: PatternNum:0-OccurrenceNum:1",
+    "Log9": "type: OccurrenceFindSimilar;time: 00:03:54.68;value: PatternNum:0-OccurrenceNum:0",
+    "Log10": "type: PatternDelete;time: 00:03:54.68;value: PatternNum:0",
+    "Log11": "type: LoadedFile;time: 00:03:54.68;value: hay1.mid",
+    "Log12": "type: PatternAdd;time: 00:04:09.84;value: PatternNum:1",
+    "Log13": "type: OccurrenceAdd;time: 00:04:14.98;value: PatternNum:0-OccurrenceNum:0",
+    "Log14": "type: OccurrenceFindSimilar;time: 00:04:19.21;value: PatternNum:0-OccurrenceNum:0",
+    "Log15": "type: PatternAdd;time: 00:04:23.61;value: PatternNum:2",
+    "Log16": "type: OccurrenceAdd;time: 00:04:34.82;value: PatternNum:1-OccurrenceNum:0",
+    "Log17": "type: OccurrenceFindSimilar;time: 00:04:37.30;value: PatternNum:1-OccurrenceNum:0",
+    "Log18": "type: OccurrenceFindSimilar;time: 00:04:40.61;value: PatternNum:1-OccurrenceNum:1",
+    "Log19": "type: OccurrenceFindSimilar;time: 00:04:41.39;value: PatternNum:1-OccurrenceNum:0",
+    "Log20": "type: PatternAdd;time: 00:04:54.34;value: PatternNum:3",
+    "Log21": "type: PatternCollapse;time: 00:04:57.39;value: PatternNum:2",
+    "Log22": "type: OccurrenceAdd;time: 00:05:14.22;value: PatternNum:1-OccurrenceNum:0",
+    "Log23": "type: OccurrenceFindSimilar;time: 00:05:16.20;value: PatternNum:1-OccurrenceNum:0",
+    "Log24": "type: Session;time: 00:05:32.86;value: Sessionend"
+  },
+  "file_metadata": {
+    "duration": 115,
+    "title": "hay1.mid",
+    "release": "",
+    "identifiers": {},
+    "artist": "",
+    "jams_version": "0.3.3"
+  },
+  "annotations": [
+    {
+      "sandbox": {},
+      "duration": 115,
+      "data": [],
+      "namespace": "pattern",
+      "time": 0,
+      "annotation_metadata": {
+        "corpus": "",
+        "validation": "",
+        "annotation_tools": "",
+        "version": "1",
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotation_rules": "",
+        "annotator": {},
+        "data_source": ""
+      }
+    },
+    {
+      "sandbox": {},
+      "duration": 115,
+      "data": [
+        {
+          "value": {
+            "pattern_id": "0",
+            "midi_pitch": "76",
+            "occurrence_id": "0",
+            "morph_pitch": "76",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 56.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "0",
+            "midi_pitch": "77",
+            "occurrence_id": "0",
+            "morph_pitch": "77",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 56.5,
+          "duration": 0.12
+        },
+        {
+          "value": {
+            "pattern_id": "0",
+            "midi_pitch": "78",
+            "occurrence_id": "0",
+            "morph_pitch": "78",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 56.75,
+          "duration": 0.12
+        },
+        {
+          "value": {
+            "pattern_id": "0",
+            "midi_pitch": "79",
+            "occurrence_id": "0",
+            "morph_pitch": "79",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 57,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "0",
+            "midi_pitch": "64",
+            "occurrence_id": "1",
+            "morph_pitch": "64",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 58.25,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "0",
+            "midi_pitch": "65",
+            "occurrence_id": "1",
+            "morph_pitch": "65",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 58.5,
+          "duration": 0.12
+        },
+        {
+          "value": {
+            "pattern_id": "0",
+            "midi_pitch": "66",
+            "occurrence_id": "1",
+            "morph_pitch": "66",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 58.75,
+          "duration": 0.12
+        },
+        {
+          "value": {
+            "pattern_id": "0",
+            "midi_pitch": "67",
+            "occurrence_id": "1",
+            "morph_pitch": "67",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 59,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "73",
+            "occurrence_id": "0",
+            "morph_pitch": "73",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 103.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "0",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 104,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "0",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 104.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "73",
+            "occurrence_id": "1",
+            "morph_pitch": "73",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 105.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 106,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "1",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 106.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "73",
+            "occurrence_id": "2",
+            "morph_pitch": "73",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 107.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "2",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 108,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "2",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 108.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "73",
+            "occurrence_id": "3",
+            "morph_pitch": "73",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 109.5,
+          "duration": 0.5
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "3",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 110,
+          "duration": 0.25
+        },
+        {
+          "value": {
+            "pattern_id": "1",
+            "midi_pitch": "74",
+            "occurrence_id": "3",
+            "morph_pitch": "74",
+            "staff": "0"
+          },
+          "confidence": 3,
+          "time": 110.5,
+          "duration": 0.5
+        }
+      ],
+      "namespace": "pattern_jku",
+      "time": 0,
+      "annotation_metadata": {
+        "corpus": "",
+        "validation": "",
+        "annotation_tools": "",
+        "version": "1",
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotation_rules": "",
+        "annotator": {},
+        "data_source": ""
+      }
+    }
+  ]
+}
